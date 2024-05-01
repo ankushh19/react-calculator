@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const App = () => {
-  const [input, setInput] = useState("29");
+  const [input, setInput] = useState("0");
 
   const calculateResult = (input) => {
     try {
